@@ -2,7 +2,7 @@ set -e
 
 COUNT=100
 
-producer  $COUNT  data/saucisse.data
+producer  $COUNT  saucisse.data
 
-java  -cp consumer  consumer  $COUNT  data/saucisse.data
+java  -cp consumer  consumer  $COUNT  saucisse.data
 
