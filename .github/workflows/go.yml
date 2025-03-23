@@ -43,6 +43,7 @@ jobs:
     - name: Compile
       run: |
         cd producer
+        go get
         go install -v ./...
         cd ../consumer
         javac *.java
