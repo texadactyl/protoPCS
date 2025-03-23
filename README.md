@@ -18,3 +18,10 @@ To-date, supporting only record types begin frame, end frame, change an int64 pr
 * git clone https://github.com/texadactyl/protoPCS
 * bash compile.sh
 * bash run.sh
+
+## Swinger Quick Start on MacOS and Linux
+
+* git clone https://github.com/texadactyl/protoPCS
+* cd swinger
+* javac *.java
+* java swinger
