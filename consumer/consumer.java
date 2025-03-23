@@ -21,7 +21,7 @@ public class consumer implements Definitions {
         consumer(maxValueChanges, pathData);
     }
 
-    // Implement the analysis method to read the binary file and load into a tree
+    // Implement the analysis method to read the binary file and load into a tree.
     public static void consumer(int maxValueChanges, String pathData) throws IOException {
          boolean eofFlag = false;
         int recordNumber = 0;
