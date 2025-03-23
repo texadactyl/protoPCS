@@ -13,7 +13,7 @@ There are 3 source folders:
 
 To-date, supporting only record types begin frame, end frame, change an int64 primitive, and change a float64 primitive.
 
-## Quick Start on MacOS and Linux
+## Producer-Consumer Quick Start on MacOS and Linux
 
 * git clone https://github.com/texadactyl/protoPCS
 * bash compile.sh
