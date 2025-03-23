@@ -1,9 +1,9 @@
 # protoPCS
 
 There are 3 source folders:
-* producer.go - File producer for the Consumer, written in Go.
-* Consumer.java - File consumer, written in Java.
-* swinger.java - Richard's first Swing screen in 15 years.
+* producer - File producer for the Consumer, written in Go.
+* Consumer - File consumer, written in Java.
+* swinger - Richard's first Swing screen in 15 years.
 
 ## Consumer logic
 
