@@ -1,4 +1,4 @@
-# protoPCS Overview
+# protoPCS
 
 There are 3 source folders:
 * producer - File producer for the Consumer, written in Go.
@@ -13,7 +13,7 @@ There are 3 source folders:
 
 To-date, supporting only record types begin frame, end frame, change an int64 primitive, and change a float64 primitive.
 
-# protoPCS Quick Start on MacOS and Linux
+## Quick Start on MacOS and Linux
 
 * bash compile.sh
 * bash run.sh
