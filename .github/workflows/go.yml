@@ -42,11 +42,11 @@ jobs:
 
     - name: Compile
       run: |
-        compile.sh
+        ./compile.sh
 
     - name: Run
       run: |
-        run.sh
+        ./run.sh
         
   windows_build_and_test:
     strategy:
