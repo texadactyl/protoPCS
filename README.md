@@ -25,7 +25,7 @@ To-date, supporting only record types begin frame, end frame, change an int64 pr
 * compile.bat
 * run.bat
 
-## Swinger Quick Start on Windows
+## Swinger Quick Start on MacOS, Linux, or Windows
 
 Assuming that you have done one of the quick starts:
 
