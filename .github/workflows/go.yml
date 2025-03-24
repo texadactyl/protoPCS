@@ -69,8 +69,8 @@ jobs:
 
     - name: Compile
       run: |
-        compile.bat
+        cmd .\compile.bat
 
     - name: Run
       run: |
-        run.bat
+        cmd .\run.bat
