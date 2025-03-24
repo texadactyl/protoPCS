@@ -2,7 +2,7 @@
 
 There are 3 source folders:
 * producer - File producer for the Consumer, written in Go.
-* Consumer - File consumer, written in Java.
+* consumer - File consumer, written in Java.
 * swinger - Richard's first Java Swing screen in 15 years.
 
 ## Consumer logic
