@@ -14,24 +14,25 @@ There are 3 source folders:
 To-date, supporting only record types begin frame, end frame, change an int64 primitive, and change a float64 primitive.
 
 ## Quick Start on MacOS and Linux
-
-* git clone https://github.com/texadactyl/protoPCS
-* bash compile.sh
-* bash run.sh
-
+```
+git clone https://github.com/texadactyl/protoPCS
+bash compile.sh
+bash run.sh
+```
 ## Quick Start on Windows
-
-* git clone https://github.com/texadactyl/protoPCS
-* compile.bat
-* run.bat
-
+```
+git clone https://github.com/texadactyl/protoPCS
+compile.bat
+run.bat
+```
 ## Swinger Launch on MacOS, Linux, or Windows
 
 Assuming that you have done one of the quick starts:
 
-java -cp swinger swinger
+```java -cp swinger swinger```
 
 -or-
-
+```
 cd swinger
 java swinger
+```
